@@ -2,7 +2,7 @@
 Repositório criado para o Desafio de Projeto
 
 ### Introdução geral dos estudos.
-Neste repositório irei apresentar em seções toaa a evolução que tive até este momento e irei atualizando gradativamente. 😉 <br/>
+Neste repositório irei apresentar em seções toda a evolução que tive até este momento e irei atualizando gradativamente. 😉 <br/>
 Estou utilizando o Obsidian para fazer as anotações das aulas ( Este programa também utiliza a formatação Markdown)
 
 ## Links Úteis
