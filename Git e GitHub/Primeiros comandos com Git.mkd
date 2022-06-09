@@ -1,0 +1,5 @@
+# Iniciando o Git e criando um commit
+#### Primeiros comandos com o Git
+- Iniciar o Git
+- Iniciar o versionamento
+- Criar um Commit

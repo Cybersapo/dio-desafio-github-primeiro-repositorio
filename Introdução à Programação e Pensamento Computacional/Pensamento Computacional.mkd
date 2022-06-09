@@ -1,0 +1,82 @@
+# Overview
+
+## Baseado em 4 Pilares
+
+Dividir o problema comlexo em subproblemas:
+
+- [x]  Decompiseção
+- [x] Reconheciento de Padrões
+- [x] Abstração
+- [x] Design de algoritmos
+
+#### Raciocínio Lógico
+Raciocínio Lógico é uma forma de pensamento estruturado, ou raciocínio, que permite encontrara conclusão ou determinar a resolução de um problema.
+
+Classifcação: 
+- Indução (Leis e teorias Fenôneme de observação)
+- Dedução (Leis e teorias previsões e explicações)
+- Abdução (Apartir de uma conclusão tiramos a premissa)
+
+==Inferência== 
+Temos dois tipos de pensamento 
+- Sintética (Abdução e Indução)
+- Analitica (Dedução)
+
+
+##### Exemplo de Raciocínio Lógico
+Um pai,maẽ e seu casal de filhos estão sentados em uma mesa. Os homenes se chamam Roberto e Sergio, as mulheres Teresa e Fernanda. Sae-se que o pai está à frente de Fernanda e o filho  e esquerda ; e que a mãe está do lado direto de Sérgio.
+
+###### Aperfeiçoamento
+Ato de aperfeiçoar
+- Encontrar solução eficientes (==Melhor uso de recursos==)
+- Otimizar Processos (==Melhor uso de recursos==)
+- Simplificar linhas de códigos (==Melhorar códigos e algoritmos==)
+- Funções bem definidas (==Melhorar códigos e algoritmos==)
+
+#### Decomposição
+Primeiro passo da resolução de problemas dentro do conceito de pesamento computacional.
+
+=="Dado um problema comlexo, devemos quebra-lo em problemas menores. Portanto, problemas mais fáceis e gerencíaveis."==
+
+###### Estratégia
+Processo de quebrar e determinar partes menores e gerenciáveis > Análise.
+Combinar os elementos recompondo o problema original > Síntese.
+Ordem de execução de tarefas menores > Sequencial  ou Paralelo.
+
+Dentro da Decomposição, temos variáveis, pequenos problemas, segmentação.
+
+Como Decompor?
+Identificar ou coletar dados > Agregar os dados > Funcionalidade
+
+
+#### Padrões
+==Reconhecimento de Padões ==
+- Modelo Base
+- Estrutr invariante
+- Repetição
+
+#### Abstração
+- Abstrair : Observar, uo oumais elementos avaliando caracteristicas e propriedades em separado.
+- Abstração: Processo intelectual de isolamento de um objeto da realidade.
+- Generalizar: Tornar-se geral, mais amplo, extensão.
+
+==Generalização==, na lógica é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fênomenos.
+
+#### Algoritmos
+- Energia
+- Trabalhador
+- Eficiência
+- Rapidez
+
+###### Desenvolvimento do programa
+- Análise
+	- Estudo e definição dos daos de entrada e saída.
+- Algoritmo
+	- Descreve o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo.
+- Codificação
+	- O algoritmo é codificado de acordo coma linguagem de programação escolhida.
+
+
+#### Estudo de Caso Conceitual
+#### Soma de intervalo
+#### Adivinhe um número

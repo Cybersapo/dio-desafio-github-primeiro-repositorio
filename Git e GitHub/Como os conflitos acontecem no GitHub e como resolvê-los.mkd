@@ -1,0 +1,8 @@
+# Como os conflitos acontecem no GitHub e como resolvê-los
+
+Seguencia que devemos fazer para para enviar um arquivo para o repositório
+git add *
+git commit -m "escrever o que alterou "
+git push origin master
+
+

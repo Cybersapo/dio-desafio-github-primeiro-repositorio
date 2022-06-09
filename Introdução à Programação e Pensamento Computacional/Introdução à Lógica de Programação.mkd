@@ -1,0 +1,20 @@
+# Introdução à Lógica de Programação
+#### O que é Lógica
+Definção Formal
+"Pronlema é uma questão que foge a uma detreminada regra ou melhor é um desvio de percurso, o qual impede de atingir um objetico com eficiencia e eficácia"
+
+#### Definição formal de lógica
+"Parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hiótese, inferência etc.) e das operações intelectuais que visam à determinação do que é verdadeiro ou não."
+
+" Everybody in this country should learn how toprogram a computer because it teaches you how to think"
+			==SteveJobs==
+
+#### Técnicas e lógica de programação
+###### Técnica Linear
+- Modelo tradicional
+- Não tem vínculo
+	- Estrutura hoerárquica
+	- Programação de computadores
+
+#### Técnica Estruturada
+Organização, dissição e ordem dos elementos essenciais que compõem um corpo (cocreto ou abstrato)

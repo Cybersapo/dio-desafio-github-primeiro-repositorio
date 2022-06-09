@@ -1,0 +1,11 @@
+# Trabalhando com o GitHub
+Para verificar se as configurações do git esta coreta para lançar na plataforma basta usar o comando ==git config --list==.
+
+caso queira alterar as configurações no git utilizamos o comando ==git config --global --unset user.email ==. ==git config --global --unset user.name== .
+
+#### Enviando o repositorio para o GitHub
+Temos que usar o seguinte comando ==git remote add origin e a linha https:==
+
+o comando ==git remote -v== mostra a lista de repositorios remotos cadastrados.
+
+para empurar o repositório para o GitHub vamos usar o seguinte comando ==git push origin master==

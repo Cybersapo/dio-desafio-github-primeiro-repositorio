@@ -1,0 +1,19 @@
+# Tópicos fundamentais para entender o funcionamento do Git
+#### Tópicos
+- SHA1
+- Objetivos fundamentais
+- Sistemas Distribuidos
+- Segurança
+
+O sigla SHA significa ecure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+
+A encriptacção gera um conjunto de characteres identificador de 40 dígitos. 
+
+#### Objetos internos do Git
+Tipos de Objetos
+
+- BLOBS (utiliza SHA1 e guarda os arquivos nele pelos os SHA1)
+- TREES ( Podem apontar para Blobs e outras Trees)
+- COMMITS ( Obejto mais importante de todos ele aponta para uma Tree, para um Commit, para um Autor e para uma Msg)
+
+#### Chave SSH e Token

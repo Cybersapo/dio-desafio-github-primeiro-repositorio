@@ -1,0 +1,12 @@
+# Passo a passo no ciclo de vida
+#### Git Init
+Inicializa um novo repositório.
+
+#### Tracked and Untracked
+Unmodified: Arquivo não modificado
+Modified: Arquivo modificado
+Staged: Onde fica arquivos que estão preparando para outro agrupamento.
+
+Git status comoando com muita frequencia utilizado
+
+Quando usamos o ==git add*== ele pega tudo que foi modifica no diretorio de trabalho para staged

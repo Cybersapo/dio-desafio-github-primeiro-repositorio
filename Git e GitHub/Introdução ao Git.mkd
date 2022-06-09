@@ -1,0 +1,15 @@
+# Entendendo o que é Git e sua importância
+
+O Git foi riado por ==Linus Torvalds==.
+
+==Git== é um direcionamento de codigo que nos ajude a manter atualizado nosso códigos.
+GitHub é um repositório online para usuário do mundo todo poder atualizar seus codigos.
+==Git /= de GitHub==
+
+#### O que itremos aprender
+- Controle de Versão
+- Armazenaento em nuvem
+- Trabalho em equipe
+- Melhorar seu código
+- Reconhecimento
+

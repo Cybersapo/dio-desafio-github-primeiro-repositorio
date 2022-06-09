@@ -1,0 +1,21 @@
+# Comandos básicos para um bom desempenho no terminal
+#### ==GUI x CLI==
+Vamos utilizar o git neste curso atraves de linha de comandos (line Interface)
+
+#### O que vamos aprender?
+- Mudar de pstas
+- Listar as pastas
+- Criar pastas / arquivos
+- Deletar pastas / arquivos
+
+==Unix (Linux)==
+- cd (direcionar para a pasta)
+- ls (lista os diretorios)
+- mkdir
+- rm -rf
+- clear (Limpa a tela)
+- Tecla Tab ( Preenche automaticamente a pasta)
+- echo (faz escreer no terminal), porem se colocar echo > e o nome de um arquivo. alguma coisa cria esse arquivo.
+
+
+#### Realizando as instalação do Git

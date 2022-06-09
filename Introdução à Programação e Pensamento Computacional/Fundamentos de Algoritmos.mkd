@@ -1,0 +1,55 @@
+# Fundamentos de algoritmos
+
+#### Tipologia e variáveis
+##### Variáveis
+Qual a função do computador:
+
+Informação → Dados → Instruções
+
+##### Tipos
+==Númericos: Inteiro e Reais==
+
+Inteiros: Não possuem casas decimais
+Reais: Possuem casas decimais.
+
+==Caracteres==
+strings: São caracterizadas com aspas duplas ou simples ( tudo que stiver dentro  delas é uma string)
+
+==Booliano==
+Representado por verdadeiro ou falso sendo 1 verdadeiro e 0 falso.
+
+
+###### Regras ou Boas Praticas
+- Atribuição de um ou mais caracteres
+- Primeira letra - não número
+- Sem espaço em branco
+- Vedado(vetado)
+	- Utilização de palavras reservadas
+- Carateres e números
+
+Constantes: são variáveis que recebem um valor que não seram alterados.
+
+#### Instruções Primitivas
+Cálculo Matemático
+
+==Definição Formal de instruções==
+Instruções são linguagem de ==palavras-chaves== (vocabulário) de uma determinada de programaçao que tem por finalidade comandar um computador que irá ==tratar os dados==.
+
+#### Estruturas Condicionais e operadores
+Condicional :  Que expressão uma condição ou suposição / Contem ou implica uma supoição ou hipótese.
+#### Estuturas de repetição
+
+#### Vetores e Matrizes
+
+#### O que são funções
+==Definição Formal==
+As funções, ou sub-rotinas são blocos de intruções que realizam tarefas específicas.
+
+
+#### Instruções de Entrada / Saída
+==Definição formal 1==
+Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos, entre outros.
+
+==Definição formal 2==
+Coniste na impressão dos dados do mundo abstrato, dgital por meio de ação de alguma interface.
+Os formatos podem variar desde simples arquivos binários até comlexas querys de banco de dados.

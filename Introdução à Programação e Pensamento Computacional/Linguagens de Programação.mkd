@@ -1,0 +1,73 @@
+# Introdução à linguagens de programação
+#### Introdução
+- Compreender as dificuldades enfrentadas
+- Fundamentos da computação
+- O processo de pensamento
+
+==O que é uma linguagem de programação?==
+Método padronzado composto por um conjunto de regras sintáticas e semânticas de implementação de um ==código fonte.==
+
+#### Como um computador entende o programa
+Código fonte → Tradução
+					   → Interpretação
+
+Um programa é um amontuado de palavras senão for possivel que o computador entenda.
+
+==Tradução==
+(1) Geração do programa objeto
+(2) Execução do programa objeto
+
+==Interpretação==
+Programa fonte executado diretamente
+
+#### Características de um programa
+Desenvolvimento de Programas: → Legibilidade
+Desenvolvimento de Programas: → Redigibilidade
+Desenvolvimento de Programas: →Confiabilidade
+Desenvolvimento de Programas: → Custo
+
+==Legibilidade==
+- Facilidade de leitura
+- Compreensão
+- Ortogonalidade
+- Definição adequada das estruturas
+
+==Redigibilidade==
+- Pode coflitar com a legibilidade
+- Ortogonalidade
+- Simplicidade da escrita
+- Suporte à abstração
+- Reuso do código
+- Expressividade
+
+==Confiabilidade==
+- Verificação de tipos
+- Trata exceções
+- Uso de ponteiros
+- Compatibilidade entre compiladores
+
+==Custo==
+- Treinamento
+- Codificação
+- Compilação
+- Execução
+- Infra-estrutura
+
+
+#### Análise de código
+==Análise Léxica==
+Partcionar → Classificar→ Eliminar
+
+==Análise sintática==
+Sintaxe: "Componente do sistema linguístico que interligam os constituintes da sentença, atribuindo-lhe uma estrutura"
+
+Padrão - gramática 
+
+==Análise semântica==
+Semântica: "É o estudo do significado. Indice sobre a relação entre significantes, como : palavras, frases, sinais e símbolos"
+
+#### Paradigmas de programação
+==Definição formal==
+"Forma de resolução de problemas como diretrizes e limitações especificas de cada paradigma utilizando linguagem de programação."
+
+
